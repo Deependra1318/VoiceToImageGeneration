@@ -9,7 +9,7 @@ This project is an interactive **Voice-to-Image generation app** that combines *
 - 🎙️ Voice transcription using OpenAI’s **Whisper** ASR.
 - 📝 Automatic punctuation restoration using **Deep Multilingual Punctuation** model.
 - 🎨 High-quality image generation using **Stable Diffusion XL (SDXL)**.
-- 🧠 Dummy GAN module (`SimpleGANGenerator`) for experimentation.
+- 🧠 GAN module (`SimpleGANGenerator`) for experimentation.
 - 🌐 **Gradio** web interface for ease of use.
 - ✅ Optional **negative prompts** to refine image outputs.
 
