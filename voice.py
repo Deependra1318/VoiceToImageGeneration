@@ -1,7 +1,5 @@
 # Install required packages
-!pip install --upgrade diffusers
-!pip install invisible_watermark transformers accelerate safetensors
-!pip install gradio
+
 !pip install git+https://github.com/openai/whisper.git
 !sudo apt install -y ffmpeg
 !pip install deepmultilingualpunctuation
